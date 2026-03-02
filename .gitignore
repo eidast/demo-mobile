@@ -1,0 +1,26 @@
+.DS_Store
+node_modules/
+.env
+.env.*
+*.log
+
+# Expo / React Native
+.expo/
+dist/
+web-build/
+
+# EAS
+.eas/
+
+# Python
+__pycache__/
+.venv/
+*.pyc
+
+# Editors
+.vscode/
+.idea/
+
+# local scaffolding backups
+apps/mobile._expo-router-template.*/
+apps/mobile._placeholder.*/
